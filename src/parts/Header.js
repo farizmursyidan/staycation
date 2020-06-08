@@ -10,8 +10,8 @@ export default function Header(props) {
 
   return (
     <header className="spacing-sm">
-      <div className="container">
-        <nav className="navbar navbar-expand-lg navbar-light">
+      <nav className="navbar navbar-expand-lg navbar-light">
+        <div className="container">
           <BrandIcon />
           <div className="collapse navbar-collapse">
             <ul className="navbar-nav ml-auto">
@@ -29,8 +29,8 @@ export default function Header(props) {
               </li>
             </ul>
           </div>
-        </nav>
-      </div>
+        </div>
+      </nav>
     </header>
   )
 }

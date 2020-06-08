@@ -42,6 +42,7 @@ $teal: #20c997 !default;
 $cyan: #17a2b8 !default;
 $staycation1: #3353DF !default;
 $staycation2: #152C5B !default;
+$badge: #FF498B !default;
 
 $colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
@@ -59,7 +60,8 @@ $colors: map-merge(("blue": $blue,
     "gray": $gray-600,
     "gray-dark": $gray-800,
     "staycation1":$staycation1,
-    "staycation2":$staycation2),
+    "staycation2":$staycation2,
+    "badge":$badge),
   $colors);
 
 $primary: $staycation1 !default;
