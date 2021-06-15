@@ -1,0 +1,17 @@
+<svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="23.625" y="24.75" width="20.25" height="21.375" rx="3" transform="rotate(-180 23.625 24.75)" stroke="white" stroke-width="2"/>
+<rect x="12.9375" y="13.5" width="3.375" height="3.375" rx="1" transform="rotate(-180 12.9375 13.5)" fill="white"/>
+<rect x="12.9375" y="18" width="3.375" height="3.375" rx="1" transform="rotate(-180 12.9375 18)" fill="white"/>
+<rect x="12.9375" y="22.5" width="3.375" height="3.375" rx="1" transform="rotate(-180 12.9375 22.5)" fill="white"/>
+<rect x="8.4375" y="18" width="3.375" height="3.375" rx="1" transform="rotate(-180 8.4375 18)" fill="white"/>
+<rect x="8.4375" y="22.5" width="3.375" height="3.375" rx="1" transform="rotate(-180 8.4375 22.5)" fill="white"/>
+<rect x="17.4375" y="13.5" width="3.375" height="3.375" rx="1" transform="rotate(-180 17.4375 13.5)" fill="white"/>
+<rect x="17.4375" y="18" width="3.375" height="3.375" rx="1" transform="rotate(-180 17.4375 18)" fill="white"/>
+<rect x="17.4375" y="22.5" width="3.375" height="3.375" rx="1" transform="rotate(-180 17.4375 22.5)" fill="white"/>
+<rect x="21.9375" y="13.5" width="3.375" height="3.375" rx="1" transform="rotate(-180 21.9375 13.5)" fill="white"/>
+<rect x="21.9375" y="18" width="3.375" height="3.375" rx="1" transform="rotate(-180 21.9375 18)" fill="white"/>
+<rect x="21.9375" y="22.5" width="3.375" height="3.375" rx="1" transform="rotate(-180 21.9375 22.5)" fill="white"/>
+<path d="M3.9375 7.875L23.625 7.875" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M19.6875 1.6875V5.0625" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M7.3125 1.6875V5.0625" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>
